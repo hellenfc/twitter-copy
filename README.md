@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# twitter-copy
+Ruby on Rails twitter toy project
+>>>>>>> 185b19d64d44e845de5a79fe17c0e17849bb833e
